@@ -1,6 +1,5 @@
 # vue 项目
 ### 预览https://cfzdyt.github.io/app/dist/index.html#/<br>
- 由vue-cli构建<br>
 ### 引入的文件跟插件<br>
 1.初始化样式reset.css<br>
 2.图标用的iconfont<br>
